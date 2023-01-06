@@ -1,0 +1,27 @@
+segment_sources:
+  IE1D8E18E:
+    type: origin_type
+    relation: translation
+    base: '4053'
+    lang: en
+  IE5788D8E:
+    type: origin_type
+    relation: translation
+    base: C63D
+    lang: bo
+segment_pairs:
+  ac2f1d227412457d9d4d7cad6d86c5b7:
+    IE1D8E18E: 96c3ee2a6c8844f1b0980bfa8d5bb1f1
+    IE5788D8E: 2322a9b4ea9a49af9430a34a58a99f42
+  ac30fed804f34d42b75bb40de20afa43:
+    IE1D8E18E: 991cf36a7c7846d2a9627c6f60a3fb55
+    IE5788D8E: d64e2057c03c4fb498a1ae595c0b0170
+  7f4391209655480f9db64f514705c288:
+    IE1D8E18E: 7c93ba9c4a0c4e92a07a952f022d5ae6
+    IE5788D8E: 760501cabdc54c9690962e938494aa6d
+  ea1841df470d4f1986bed8922ea3bdd7:
+    IE1D8E18E: 3802153c7c534322bdf05977bda07709
+    IE5788D8E: 4fc9127c7e144be69fb734e5837be1ee
+  f7ffffa15df84407a1c662ce682d33a9:
+    IE1D8E18E: 43088719890f4364a507f0ccf0f27a30
+    IE5788D8E: 7f444d5ae2684d52a04afe14df5b8141
